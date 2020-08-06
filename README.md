@@ -1,6 +1,6 @@
-#Lucas Bacelar
 
-#Olá mundo 😁
+
+##Olá mundo 😁, me chamo Lucas Bacelar
 
 <br/> $ Atualmente descobrindo a imensidão da Ciencia da Computação 👀 
 <br/> $ Sou um programador iniciante na linguagem C
