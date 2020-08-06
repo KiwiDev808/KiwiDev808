@@ -6,5 +6,5 @@
 <br/> $ Sou um programador iniciante na linguagem C
 
 <br/> ☎Estou disponivel para eventuais oportunidades de emprego
-<br/> 📝Atualmente estou fazendo o CS50x da Harvar
+<br/> 📝Atualmente estou fazendo o CS50x da Harvard
 <br/> 🎧Sobre mim: Sempre escutando músicas, ou descobrindo coisas novas sobre Audio Enginering
