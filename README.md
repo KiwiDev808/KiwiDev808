@@ -5,4 +5,4 @@
 
 <br/> ☎Buscando oportunidades de aprendizado
 <br/> 📝Atualmente estou fazendo o curso de Webdev Fullstack pela Labenu
-<br/> 🎧Sobre mim: Sempre escutando músicas, ou descobrindo coisas novas sobre rogramação
+<br/> 🎧Sobre mim: Sempre escutando músicas, ou descobrindo coisas novas sobre programação
