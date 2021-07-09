@@ -1,7 +1,12 @@
 
-## Olá mundo😁, me chamo Lucas Bacelar 👋 
+## Hi there, i'm Lucas
 
-## About Me
+### About Me
+
+- 🌱 Currently learning: Nextjs, Typescript, NodeJS and MySQL
+- 👨‍💻 Computer Science Student, attending the 4th semester.
+- 💙 Interests: Coding, Music, Web Development, Playing Guitar.
+- 🌍 Languages: Portuguese and English
 
 
 ## Skills :nerd_face:
