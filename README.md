@@ -29,6 +29,9 @@
     <a href="https://www.linkedin.com/in/lucas-bacelar-de-souza-51455512a/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucas-bacelar-de-souza-51455512a/">
     </a>
+   <a href="https://www.canva.com/design/DAEgAR0VWvQ/rG8pc4WAhq-6Gs-XER8DdA/view?utm_content=DAEgAR0VWvQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+        <img src="https://img.shields.io/badge/-Resume-blue">
+    </a>
 </div>
  
  ![Snake animation](https://github.com/KiwiDev808/KiwiDev808/blob/output/github-contribution-grid-snake.svg)
