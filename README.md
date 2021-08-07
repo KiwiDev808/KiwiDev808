@@ -5,18 +5,8 @@
   <a href="https://github.com/KiwiDev808">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiwiDev808&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiDev808&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### About Me
-
-- 🌱 Currently learning: Nextjs, Typescript, NodeJS and MySQL
-- 👨‍💻 Computer Science Student, attending the 4th semester.
-- 💙 Interests: Coding, Music, Web Development, Playing Guitar.
-- 🌍 Languages: Portuguese and English
-
-
-## Skills :fire: 
-<div style="dispĺay: inline-block">
+ </div>
+ <div style="dispĺay: inline-block">
     <img height="30" width="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +14,14 @@
     <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+ </div>
+
+### About Me
+
+- 🌱 Currently learning: Nextjs, Typescript, NodeJS and MySQL
+- 👨‍💻 Computer Science Student, attending the 4th semester.
+- 💙 Interests: Coding, Music, Web Development, Playing Guitar.
+- 🌍 Languages: Portuguese and English
 
 ## Contact :iphone:
 
