@@ -30,3 +30,5 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucas-bacelar-de-souza-51455512a/">
     </a>
 </div>
+ 
+ ![Snake animation](https://github.com/KiwiDev808/KiwiDev808/blob/output/github-contribution-grid-snake.svg)
