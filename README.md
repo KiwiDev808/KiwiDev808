@@ -17,13 +17,8 @@
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  </div>
 
-### About Me
-
-- 🌱 Currently learning: Nextjs, Typescript, NodeJS and MySQL
-- 👨‍💻 Computer Science Student, attending the 4th semester.
-- 💙 Interests: Coding, Music, Web Development, Playing Guitar.
-- 🌍 Languages: Portuguese and English
-
+<hr>
+ 
 ## Contact :iphone:
 
 <p align="center">
