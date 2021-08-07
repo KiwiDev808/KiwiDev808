@@ -1,5 +1,5 @@
 
-## Hi there, i'm Lucas
+## Olá! Eu sou o Lucas Bacelar
 
 ### About Me
 
